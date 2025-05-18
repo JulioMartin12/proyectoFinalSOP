@@ -33,12 +33,12 @@ chmod +x main_toolkit.sh
 
 ## ⚙️ Funcionalidades actuales:
 Gestión de Procesos (procesos.sh)
-•    Ver los procesos activos (modo simplificado).
-•    Consultar información de un proceso por su PID.
-•    Enviar una señal SIGTERM a un proceso.
-•    Ver el arbol de los proceso por PID.
+-     Ver los procesos activos (modo simplificado).
+-     Consultar información de un proceso por su PID.
+-     Enviar una señal SIGTERM a un proceso.
+-     Ver el arbol de los proceso por PID.
 
-Requisitos
-•    Ubuntu/Debian.
-•    Bash shell.
-•    Permisos de ejecución en los scripts. 
+## Requisitos
+-     Ubuntu/Debian.
+-     Bash shell.
+-     Permisos de ejecución en los scripts. 
