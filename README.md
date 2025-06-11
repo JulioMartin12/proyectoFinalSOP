@@ -1,21 +1,32 @@
 # Toolkit de Administración Jr.
 
-### 📌 Descripción General
+### 📌 Objetivo General
 
 Este toolkit fue desarrollado como parte del Proyecto Final ABP del módulo **Sistemas Operativos** en el marco de la Tecnicatura Superior en Desarrollo de Software (ISPC - 2025). Tiene como objetivo facilitar tareas básicas de administración en sistemas Linux (Ubuntu/Debian) mediante scripts en Bash.
 
 ---
 
-### 🎯 Objetivo del Proyecto
+### 🎯 Objetivo Especificos
 
 Desarrollar un prototipo funcional de un Toolkit de Administración Jr. que permita:
 
-- Monitorear procesos del sistema.
-- Visualizar el uso de la memoria RAM y SWAP.
-- Consultar información del sistema de archivos.
-- Administrar usuarios y grupos.
-- Verificar aspectos básicos de seguridad.
-- Proveer una interfaz de texto clara y funcional.
+- Diseñar modulos Bash para gestionar procesos memoria y disco.
+- Implementar un menu interactivo que integre los modulos creados.
+- Documentar el uso y los requisistos del toolkit.
+
+---
+
+### Acciones
+
+- Investigar comandos y herramientas necesarias.
+- Escribir scripts para cada modulo.
+- Validar funcionamiento en entorno Linux.
+- Diseñar una interfaz de texto claro.
+- Integrar los scripts en un menú principal.
+- Testear el flujo de uso con usuarios reales.
+- Elaborar instrucciones de uso.
+- Redactar requisitos técnicos.
+- Publicar el proyecto en un repositorio accesible.
 
 ---
 
